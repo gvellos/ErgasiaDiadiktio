@@ -1,0 +1,4 @@
+giorgos,1,The Dark Knight,cinema1,11:30,13:24,10
+pinelopi,12,The Dark Knight,cinema2,20:00,22:37,50
+pinelopi,1,The Dark Knight,cinema1,1,2,12
+pinelopi,1,The Dark Knight,cinema1,22:12,00:04,12
